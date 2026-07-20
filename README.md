@@ -2,7 +2,7 @@
 
 A single-page portfolio built to showcase my work as a full-stack developer completing LaunchCode's software development program.
 
-**🔗 Live site:** [ADD-YOUR-GITHUB-PAGES-URL-HERE](#)
+**🔗 Live site:** [https://lyndseydj1808.github.io/Lyndsey-Clarkson-Portfolio/](#)
 
 ## Featured Projects
 
